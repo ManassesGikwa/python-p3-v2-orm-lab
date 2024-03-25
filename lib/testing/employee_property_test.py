@@ -1,5 +1,5 @@
 from department import Department
-from employee import Employee
+from lib.employee import Employee
 import pytest
 
 
